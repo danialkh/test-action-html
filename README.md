@@ -1,8 +1,3 @@
-Here is a professional, well-structured `README.md` ready to use for your repository.
-
----
-
-```markdown
 # Web UI Showcase Collection
 
 A collection of static web interface user interfaces hosted via **GitHub Pages**. This repository contains front-end design prototypes for cultural, news, and digital library web applications.
@@ -40,38 +35,3 @@ A news portal and image gallery platform tailored for cultural heritage and holy
 ├── magazine-ui-main/          # Front-end static assets for Komeh Shah magazine store
 ├── first_page_sabeqoon-main/   # Front-end static assets for Sabeqoon news platform
 └── README.md
-
-```
-
----
-
-## 🚀 Deployment
-
-This project is deployed automatically using **GitHub Pages**.
-
-To host locally:
-
-1. Clone the repository:
-```bash
-git clone [https://github.com/danialkh/test-action-html.git](https://github.com/danialkh/test-action-html.git)
-
-```
-
-
-2. Open any subfolder directory in your web browser or live server extension:
-* `./magazine-ui-main/index.html`
-* `./first_page_sabeqoon-main/index.html`
-
-
-
----
-
-## 🛠️ Tech Stack
-
-* **HTML5** / **CSS3** (Custom RTL Layouts & Visual Themes)
-* **JavaScript (Vanilla)**
-* **GitHub Pages** (Hosting & Continuous Deployment)
-
-```
-
-```
